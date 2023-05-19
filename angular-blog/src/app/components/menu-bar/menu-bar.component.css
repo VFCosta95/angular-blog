@@ -1,0 +1,14 @@
+.container-menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+}
+.container-menu-bar > ul > li{
+    margin-right:22px ;
+    list-style: none;
+}
+.container-menu-bar > ul > li >a{
+    text-decoration: none;
+}
+.container-menu-bar :hover{
+    color: aquamarine;
+}
