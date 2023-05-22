@@ -13,4 +13,7 @@ export class SmallCardComponent {
   @Input()
   cardTitle = ''
 
+  @Input()
+  Id = '0'
+
 }
